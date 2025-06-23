@@ -90,4 +90,8 @@ Usa mensajes tipo:
 Licencia
 
 MIT License
+<<<<<<< HEAD
 © 2025 Sebastian Reinoso
+=======
+© 2025 Sebastian Reinoso
+>>>>>>> a87cc76973c7a49252d425960a9a900b83560517
